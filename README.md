@@ -1,7 +1,7 @@
 
-# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-zendframework.svg?branch=master)](https://travis-ci.org/27cm/awesome-zendframework)
 
-> A curated list of awesome [Zend Framework](http://framework.zend.com) modules, tutorials and other nice things.
+> A curated list of awesome [Zend Framework](https://framework.zend.com/) modules, tutorials and other nice things.
 
 
 ## Table of Contents
@@ -56,7 +56,6 @@
 - [Zend Framework 2 Certification Study Guide](http://www.zend.com/en/services/certification/zf2-certification-study-guide), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework 2 Certified Architect.
 - [Zend Framework 2 Cookbook](https://www.packtpub.com/web-development/zend-framework-2-cookbook), Josephus Callaars — The perfect way to access and understand the features of Zend Framework 2.
 - [Zend Framework 2.0 by Example](https://www.packtpub.com/web-development/zend-framework-20-example-beginner%E2%80%99s-guide), Krishna Shasankar — Chance to learn Zend Framework 2.0 through real world examples and an involving hands-on approach.
-- [Zend Framework: Surviving The Deep End](http://www.survivethedeepend.com/zendframeworkbook/en/1.0), Padraic Brady — Free book about Zend Framework for the PHP programming language.
 
 
 ## Zend Framework Multimedia
