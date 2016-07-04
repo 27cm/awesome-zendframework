@@ -1,5 +1,5 @@
 
-# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/27cm/awesome-zendframework.svg?branch=master)](https://travis-ci.org/27cm/awesome-zendframework)
+# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-zendframework.svg?branch=master)](https://travis-ci.org/27cm/awesome-zendframework)
 
 > A curated list of awesome [Zend Framework](https://framework.zend.com/) modules, tutorials and other nice things.
 
@@ -21,7 +21,7 @@
 - [Zend Skeleton Cli](https://github.com/slaff/ZendCliSkeleton) — Sample boilerplate for your own command line applications using ZF2.
 - [Zend Skeleton Application](https://github.com/zendframework/ZendSkeletonApplication) — Sample application skeleton using the ZF2 MVC layer and module systems.
 - [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule) — Sample module skeleton for use with the ZF2 MVC layer.
-
+- [Zend-Framework-Skeleton](https://github.com/christophervalles/Zend-Framework-Skeleton) — Zend Framework skeleton with TDD, ZFDebug and module structure.
 
 ## Applications
 *Open-source applications using Zend Framework.*
@@ -36,7 +36,11 @@
 *Collection of reusable components for Zend Framework applications.*
 
 - [Apigility](https://github.com/zfcampus/zf-apigility) (ex. [PhlyRestfully](https://github.com/phly/PhlyRestfully)) — The easiest way to create high-quality APIs: RESTful or RPC services, JSON (specifically, HAL), Authentication (HTTP Basic/Digest, OAuth2), etc.
+- [DoctrineModule](https://github.com/doctrine/DoctrineModule) — Basic functionality consumed by DoctrineORMModule and DoctrineMongoODMModule.
+- [DoctrineMongoODMModule](https://github.com/doctrine/DoctrineMongoODMModule) — Zend Framework 2 Module for Doctrine MongoDB ODM.
+- [DoctrineORMModule](https://github.com/doctrine/DoctrineORMModule) — Zend Framework 2 Module for Doctrine ORM.
 - [Zend Framework Modules Site](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
+- [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
 - [PhlyBlog](https://github.com/phly/PhlyBlog) — Static blog generator.
 - [PhlyMongo](https://github.com/phly/PhlyMongo) — Service factories, hydrating and paginator for Mongo.
 
