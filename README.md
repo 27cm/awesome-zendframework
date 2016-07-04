@@ -23,6 +23,7 @@
 - [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule) — Sample module skeleton for use with the ZF2 MVC layer.
 - [Zend-Framework-Skeleton](https://github.com/christophervalles/Zend-Framework-Skeleton) — Zend Framework skeleton with TDD, ZFDebug and module structure.
 
+
 ## Applications
 *Open-source applications using Zend Framework.*
 
@@ -30,19 +31,27 @@
 - [Magento](https://magento.com) — E-commerce platform.
 - [Omeka](http://omeka.org) — A flexible web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
 - [Piwik](https://piwik.org) — The leading free open analytics platform.
+- [Libra CMS](http://www.ejoom.com/libra-cms/en/) — Joomla looking Content Managment System based on Zend Framework 2.
 
 
 ## Modules
 *Collection of reusable components for Zend Framework applications.*
 
-- [Apigility](https://github.com/zfcampus/zf-apigility) (ex. [PhlyRestfully](https://github.com/phly/PhlyRestfully)) — The easiest way to create high-quality APIs: RESTful or RPC services, JSON (specifically, HAL), Authentication (HTTP Basic/Digest, OAuth2), etc.
+- [Apigility](https://apigility.org/) (ex. [PhlyRestfully](https://github.com/phly/PhlyRestfully)) — The easiest way to create high-quality APIs.
+- [BjyAuthorize](https://github.com/bjyoungblood/BjyAuthorize) — Facade for Zend\Permissions\Acl that will ease its usage with modules and applications.
 - [DoctrineModule](https://github.com/doctrine/DoctrineModule) — Basic functionality consumed by DoctrineORMModule and DoctrineMongoODMModule.
 - [DoctrineMongoODMModule](https://github.com/doctrine/DoctrineMongoODMModule) — Zend Framework 2 Module for Doctrine MongoDB ODM.
 - [DoctrineORMModule](https://github.com/doctrine/DoctrineORMModule) — Zend Framework 2 Module for Doctrine ORM.
-- [Zend Framework Modules Site](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
-- [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
 - [PhlyBlog](https://github.com/phly/PhlyBlog) — Static blog generator.
 - [PhlyMongo](https://github.com/phly/PhlyMongo) — Service factories, hydrating and paginator for Mongo.
+- [SmartyModule](https://github.com/MurgaNikolay/SmartyModule) — Zend Framework 2 module for Smarty templating engine.
+- [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
+- [Zend Framework Modules Site](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
+- [ZfcAdmin](https://github.com/ZF-Commons/ZfcAdmin) — Admin interface for Zend Framework 2 modules.
+- [ZfcTwig](https://github.com/ZF-Commons/ZfcTwig) — Zend Framework 2 module for Twig templating engine.
+- [ZfcUser](https://github.com/ZF-Commons/ZfcUser) — User registration and authentication for Zend Framework 2.
+- [zf-apigility-admin](https://github.com/zfcampus/zf-apigility-admin) — Admin API and UI for Apigility.
+- [zf-oauth2](https://github.com/zfcampus/zf-oauth2) — OAuth2 server module for Zend Framework 2.
 
 
 ## Zend Framework Books
@@ -78,6 +87,7 @@
 - [Rob Allen's DevNotes](https://akrabat.com) — Rob is a PHP and Zend Framework expert, the author of «Zend Framework in Action».
 - [Understanding the Zend Framework](http://www.ibm.com/developerworks/opensource/library/os-php-zend1/) — Tutorials show the creation of a new online RSS feed reader.
 - [Zend Developer Zone](https://devzone.zend.com) — Official Zend Community blog.
+- [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/)
 
 
 ## License
