@@ -3,6 +3,8 @@
 
 > A curated list of awesome [Zend Framework](https://framework.zend.com/) modules, tutorials and other nice things.
 
+[<img src="https://raw.githubusercontent.com/27cm/awesome-zendframework/master/media/logo.png" alt="Zend Framework" align="right" width="120">](https://framework.zend.com/)
+
 
 ## Table of Contents
 
