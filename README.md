@@ -1,9 +1,7 @@
 
-# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-zendframework.svg?branch=master)](https://travis-ci.org/27cm/awesome-zendframework)
+# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-zendframework.svg?branch=master)](https://travis-ci.org/27cm/awesome-zendframework) [<img src="https://raw.githubusercontent.com/27cm/awesome-zendframework/master/media/logo.png" alt="Zend Framework" align="right" width="80">][zf]
 
-> A curated list of awesome [Zend Framework](https://framework.zend.com/) modules, tutorials and other nice things.
-
-[<img src="https://raw.githubusercontent.com/27cm/awesome-zendframework/master/media/logo.png" alt="Zend Framework" align="right" width="120">](https://framework.zend.com/)
+> A curated list of awesome [Zend Framework][zf] modules, tutorials and other nice things.
 
 
 ## Table of Contents
@@ -44,6 +42,8 @@
 - [DoctrineModule](https://github.com/doctrine/DoctrineModule) — Basic functionality consumed by DoctrineORMModule and DoctrineMongoODMModule.
 - [DoctrineMongoODMModule](https://github.com/doctrine/DoctrineMongoODMModule) — Zend Framework 2 Module for Doctrine MongoDB ODM.
 - [DoctrineORMModule](https://github.com/doctrine/DoctrineORMModule) — Zend Framework 2 Module for Doctrine ORM.
+- [HumusAmqpModule](https://github.com/prolic/HumusAmqpModule) — AMQP module for Zend Framework 2 to integrate RabbitMQ.
+- [PayumModule](https://github.com/Payum/PayumModule) — Rich payment solutions for Zend Framework 2.
 - [PhlyBlog](https://github.com/phly/PhlyBlog) — Static blog generator.
 - [PhlyMongo](https://github.com/phly/PhlyMongo) — Service factories, hydrating and paginator for Mongo.
 - [SmartyModule](https://github.com/MurgaNikolay/SmartyModule) — Zend Framework 2 module for Smarty templating engine.
@@ -54,6 +54,7 @@
 - [ZfcUser](https://github.com/ZF-Commons/ZfcUser) — User registration and authentication for Zend Framework 2.
 - [zf-apigility-admin](https://github.com/zfcampus/zf-apigility-admin) — Admin API and UI for Apigility.
 - [zf-oauth2](https://github.com/zfcampus/zf-oauth2) — OAuth2 server module for Zend Framework 2.
+- [zf2-twb-bundle](https://github.com/neilime/zf2-twb-bundle) — Zend Framework 2 module for integration of Twitter Bootstrap.
 
 
 ## Zend Framework Books
@@ -97,3 +98,6 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Anton Zakharov](https://github.com/27cm) has waived all copyright and related or neighboring rights to this work.
+
+
+[zf]: https://framework.zend.com/
