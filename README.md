@@ -11,6 +11,7 @@
 - [Applications](#applications)
 - [Modules](#modules)
     - [API](#api)
+    - [Developer Tools](#developer-tools)
     - [Doctrine](#doctrine)
     - [Templates](#templates)
     - [Others](#others)
@@ -59,6 +60,14 @@
 - [zf-apigility-admin](https://github.com/zfcampus/zf-apigility-admin) — Admin API and UI for Apigility.
 - [zf-oauth2](https://github.com/zfcampus/zf-oauth2) — OAuth2 server module for Zend Framework 2.
 
+### Developer Tools
+
+- [BjyProfiler](https://github.com/bjyoungblood/BjyProfiler) — ZendDeveloperTools-compatible Zend\Db query profile.
+- [HumusPHPUnitModule](https://github.com/prolic/HumusPHPUnitModule) — Unit testing module.
+- [ZFDebug](https://github.com/jokkedk/ZFDebug) — Debug toolbar for Zend Framework.
+- [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
+- [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools) — Developer and debug tools for working with the ZF2 MVC layer.
+
 ### Doctrine
 
 - [DoctrineModule](https://github.com/doctrine/DoctrineModule) — Basic functionality consumed by DoctrineORMModule and DoctrineMongoODMModule.
@@ -77,14 +86,13 @@
 - [DOMPDFModule](https://github.com/raykolbe/DOMPDFModule) — Zend Framework 2 module for DOMPDF.
 - [EmojiModule](https://github.com/atans/EmojiModule) — Emoji module for Zend Framework 2.
 - [HumusAmqpModule](https://github.com/prolic/HumusAmqpModule) — AMQP module for Zend Framework 2 to integrate RabbitMQ.
+- [HumusStreamResponseSender](https://github.com/prolic/HumusStreamResponseSender) — Stream responses with additional features like download resume and speed limit.
 - [PayumModule](https://github.com/Payum/PayumModule) — Rich payment solutions for Zend Framework 2.
 - [PhlyBlog](https://github.com/phly/PhlyBlog) — Static blog generator.
 - [PhlyMongo](https://github.com/phly/PhlyMongo) — Service factories, hydrating and paginator for Mongo.
 - [Sitemap](https://github.com/Soflomo/Sitemap) — Simple sitemap generation module for Zend Framework 2.
 - [SlmQueue](https://github.com/juriansluiman/SlmQueue) — Integration with various queue management systems.
 - [Soflomo-Purifier](https://github.com/juriansluiman/Soflomo-Purifier) — HTMLPurifier integration for Zend Framework 2.
-- [ZFDebug](https://github.com/jokkedk/ZFDebug) — Debug toolbar for Zend Framework.
-- [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
 - [ZfcAdmin](https://github.com/ZF-Commons/ZfcAdmin) — Admin interface for Zend Framework 2 modules.
 - [ZfcDatagrid](https://github.com/ThaDafinser/ZfcDatagrid) — Datagrid/Datatable module for Zend Framework 2 with different datasources.
 - [ZfcTwitterBootstrap](https://github.com/mwillbanks/ZfcTwitterBootstrap) — Zend Framework 2 Integration with Twitter Bootstrap.
