@@ -24,8 +24,8 @@
 
 - [Zend Framework][zf] — Official Zend Framework site.
 - [Zend Framework Documentation](https://framework.zend.com/learn) — Tutorials, Reference guide and Zend Framework API Documentation.
-- [Zend Framework Documentation](https://readthedocs.org/projects/zf2/) (readthedocs.org) — Zend Framework 2 documentation: [PDF](https://readthedocs.org/projects/zf2/downloads/pdf/latest/), [HTML](https://readthedocs.org/projects/zf2/downloads/htmlzip/latest/), [Epub](https://readthedocs.org/projects/zf2/downloads/epub/latest/).
-- [Zend Framework Modules Site](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
+- [Zend Framework Documentation](https://readthedocs.org/projects/zf2/) (readthedocs.org) — Zend Framework 2 documentation: [PDF](https://media.readthedocs.org/pdf/zf2/latest/zf2.pdf), [HTML](https://media.readthedocs.org/htmlzip/zf2/latest/zf2.zip), [Epub](https://media.readthedocs.org/epub/zf2/latest/zf2.epub).
+- [Zend Framework Modules](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
 - [Zend Framework Repository](https://github.com/zendframework/zendframework) — Official Zend Framework repository.
 
 
