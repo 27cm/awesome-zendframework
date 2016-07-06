@@ -6,12 +6,22 @@
 
 ## Table of Contents
 
+- [Official Resources](#official-resources)
+
 - [Application Skeleton](#application-skeleton)
 - [Applications](#applications)
 - [Modules](#modules)
 - [Zend Framework Books](#zend-framework-books)
 - [Zend Framework Multimedia](#zend-framework-multimedia)
 - [Zend Framework Reading](#zend-framework-reading)
+
+
+## Official Resources
+
+- [Zend Framework][zf] — Official Zend Framework site.
+- [Zend Framework Documentation](https://framework.zend.com/learn) — Tutorials, Reference guide and Zend Framework API Documentation.
+- [Zend Framework Modules Site](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
+- [Zend Framework Repository](https://github.com/zendframework/zendframework) — Official Zend Framework repository.
 
 
 ## Application Skeleton
@@ -48,13 +58,13 @@
 - [PhlyMongo](https://github.com/phly/PhlyMongo) — Service factories, hydrating and paginator for Mongo.
 - [SmartyModule](https://github.com/MurgaNikolay/SmartyModule) — Zend Framework 2 module for Smarty templating engine.
 - [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
-- [Zend Framework Modules Site](https://zfmodules.com/) — Community site for publishing and sharing Zend Framework modules.
 - [ZfcAdmin](https://github.com/ZF-Commons/ZfcAdmin) — Admin interface for Zend Framework 2 modules.
 - [ZfcTwig](https://github.com/ZF-Commons/ZfcTwig) — Zend Framework 2 module for Twig templating engine.
 - [ZfcUser](https://github.com/ZF-Commons/ZfcUser) — User registration and authentication for Zend Framework 2.
 - [zf-apigility-admin](https://github.com/zfcampus/zf-apigility-admin) — Admin API and UI for Apigility.
 - [zf-oauth2](https://github.com/zfcampus/zf-oauth2) — OAuth2 server module for Zend Framework 2.
 - [zf2-twb-bundle](https://github.com/neilime/zf2-twb-bundle) — Zend Framework 2 module for integration of Twitter Bootstrap.
+- [zfc-rbac](https://github.com/ZF-Commons/zfc-rbac) — Role-based access control module to provide additional features on top of Zend\Permissions\Rbac.
 
 
 ## Zend Framework Books
