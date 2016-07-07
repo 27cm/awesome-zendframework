@@ -7,7 +7,8 @@
 ## Table of Contents
 
 - [Official Resources](#official-resources)
-- [Application Skeleton](#application-skeleton)
+- [Application Skeletons](#application-skeletons)
+- [Application Tutorials](#application-tutorials)
 - [Applications](#applications)
 - [Modules](#modules)
     - [API](#api)
@@ -30,7 +31,7 @@
 - [Zend Framework Repository](https://github.com/zendframework/zendframework) — Official Zend Framework repository.
 
 
-## Application Skeleton
+## Application Skeletons
 *Various application skeletons and boilerplates.*
 
 - [Apigility Skeleton Application](https://github.com/zfcampus/zf-apigility-skeleton) — Sample application skeleton using Apigility.
@@ -40,6 +41,13 @@
 - [Zend Skeleton Application](https://github.com/zendframework/ZendSkeletonApplication) — Sample application skeleton using the ZF2 MVC layer and module systems.
 - [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule) — Sample module skeleton for use with the ZF2 MVC layer.
 - [Zend-Framework-Skeleton](https://github.com/christophervalles/Zend-Framework-Skeleton) — Zend Framework skeleton with TDD, ZFDebug and module structure.
+
+
+## Application Tutorials
+*Open-source tutorial applications using Zend Framework.*
+
+- [Big Sticky Notes](https://github.com/bigemployee/Big-Sticky-Notes) — Web application tutorial uses Zend Framework 2 MVC layer and module system.
+- [Blog](https://github.com/romka/zend-blog-example) — Blog example based on Zend Framework 2 and ZendSkeletonApplication.
 
 
 ## Applications
@@ -114,7 +122,8 @@
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20), Mahabubul Hasan — Designed for developers who want to learn Zend Framework fast, using a hands-on practical approach rather than dry theory.
 - [Pro Zend Framework Techniques](http://www.apress.com/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners
-- [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 Concepts, Techniques and Practical Solutions.
+- [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 concepts, Techniques and Practical Solutions.
+- [Web Development with Zend Framework 3](https://leanpub.com/zendframework), Michael Romer — Zend Framework 3 concepts, Techniques and Practical Solutions.
 - [Zend Enterprise PHP Patterns](http://www.apress.com/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
 - [Zend Framework](http://www.apress.com/9781430219064), Zend, Inc. — The official programmer’s reference guide.
 - [Zend Framework Certification Study Guide](http://downloads.zend.com/framework/generic/ZFC_Study_Guide_v1.pdf), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework Certified Architect.
