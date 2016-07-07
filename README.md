@@ -31,9 +31,11 @@
 
 
 ## Application Skeleton
-*Various application skeletons.*
+*Various application skeletons and boilerplates.*
 
 - [Apigility Skeleton Application](https://github.com/zfcampus/zf-apigility-skeleton) — Sample application skeleton using Apigility.
+- [Zend Framework Boilerplate](https://github.com/michael-romer/zf-boilerplate) — Pre-packaged, pre-configured Zend Framework application.
+- [Zend Framework Boilerplate 2](https://github.com/michael-romer/zfb2) — All-in-one platform for development PHP applications with Zend Framework 2.
 - [Zend Skeleton Cli](https://github.com/slaff/ZendCliSkeleton) — Sample boilerplate for your own command line applications using ZF2.
 - [Zend Skeleton Application](https://github.com/zendframework/ZendSkeletonApplication) — Sample application skeleton using the ZF2 MVC layer and module systems.
 - [Zend Skeleton Module](https://github.com/zendframework/ZendSkeletonModule) — Sample module skeleton for use with the ZF2 MVC layer.
@@ -112,6 +114,7 @@
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20), Mahabubul Hasan — Designed for developers who want to learn Zend Framework fast, using a hands-on practical approach rather than dry theory.
 - [Pro Zend Framework Techniques](http://www.apress.com/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners
+- [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 Concepts, Techniques and Practical Solutions.
 - [Zend Enterprise PHP Patterns](http://www.apress.com/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
 - [Zend Framework](http://www.apress.com/9781430219064), Zend, Inc. — The official programmer’s reference guide.
 - [Zend Framework Certification Study Guide](http://downloads.zend.com/framework/generic/ZFC_Study_Guide_v1.pdf), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework Certified Architect.
