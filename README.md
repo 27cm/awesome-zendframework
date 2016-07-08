@@ -19,7 +19,7 @@
 - [Zend Framework Books](#zend-framework-books)
 - [Zend Framework Multimedia](#zend-framework-multimedia)
 - [Zend Framework Reading](#zend-framework-reading)
-
+- [Community](#community)
 
 ## Official Resources
 *Official Zend Framework sites.*
@@ -153,6 +153,13 @@
 - [Rob Allen's DevNotes](https://akrabat.com) — PHP and Zend Framework expert.
 - [Understanding the Zend Framework](http://www.ibm.com/developerworks/opensource/library/os-php-zend1/) — Tutorials show the creation of a new online RSS feed reader.
 - [Zend Developer Zone](https://devzone.zend.com) — Official Zend Community blog.
+
+
+## Community
+*Discuss Zend Framework.*
+
+- [Stack Overflow](http://stackoverflow.com/questions/ask) — You might use the following tags: `[zend-framework](http://stackoverflow.com/questions/tagged/zend-framework)`, `[zend-framework2](http://stackoverflow.com/questions/tagged/zend-framework2)`, `[zend-framework3](http://stackoverflow.com/questions/tagged/zend-framework3)`.
+- [Zend Forums](http://forums.zend.com/viewforum.php?f=69) — For programming and general questions on Zend Framework.
 
 
 ## License
