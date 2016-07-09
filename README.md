@@ -55,7 +55,7 @@
 
 - [JoobsBox](http://www.joobsbox.com) — flexible software for job boards, with a plugins and themes system ready for your needs.
 - [Magento](https://magento.com) — E-commerce platform.
-- [Omeka](http://omeka.org) — A flexible web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
+- [Omeka](http://omeka.org) — Web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
 - [PHPLifestream](https://github.com/johannilsson/phplifestream) — Lifestream Aggregator, built with Zend Framework.
 - [Piwik](https://piwik.org) — The leading free open analytics platform.
 - [Libra CMS](http://www.ejoom.com/libra-cms/en/) — Joomla looking Content Managment System based on Zend Framework 2.
@@ -120,6 +120,7 @@
 - [Easy PHP Websites with the Zend Framework](https://www.amazon.com/Easy-PHP-Websites-Zend-Framework-ebook/dp/B004RVNL3G), Jason Gilmore — Ultimate guide to building powerful PHP websites.
 - [Guide to Programming with Zend Framework](https://www.amazon.com/Architects-Guide-Programming-Zend-Framework/dp/0973862157), Cal Evans — Learn to master the secrets of the Zend Framework.
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20), Mahabubul Hasan — Designed for developers who want to learn Zend Framework fast, using a hands-on practical approach rather than dry theory.
+- [Learn ZF2](http://learnzf.com/book/), Slavey Karadzhov — The book will help to understand the major components in ZF2.
 - [Pro Zend Framework Techniques](http://www.apress.com/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners
 - [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 concepts, Techniques and Practical Solutions.
@@ -147,7 +148,7 @@
 
 - [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/)
 - [Enrico Zimuel](http://www.zimuel.it/category/zend-framework/) — Zend Framework Core Developer.
-- [Master Zend Framework](http://www.masterzendframework.com) — One of the most popular Zend Framework sites with great tutorials, podcasts, screencasts, tips, pointers and much, much more.
+- [Master Zend Framework](http://www.masterzendframework.com) — Zend Framework tutorials, podcasts, screencasts, tips, pointers and much, much more.
 - [Matthew Weier O'Phinney](https://mwop.net/blog/tag/zend%20framework) — Zend Framework Team Lead.
 - [Marco Pivetta](https://ocramius.github.io/) (Ocramius) — Doctrine and Zend Framework CR team member.
 - [Rob Allen's DevNotes](https://akrabat.com) — PHP and Zend Framework expert.
