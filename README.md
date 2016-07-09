@@ -159,7 +159,7 @@
 ## Community
 *Discuss Zend Framework.*
 
-- [Stack Overflow](http://stackoverflow.com/questions/ask) — You might use the following tags: `[zend-framework](http://stackoverflow.com/questions/tagged/zend-framework)`, `[zend-framework2](http://stackoverflow.com/questions/tagged/zend-framework2)`, `[zend-framework3](http://stackoverflow.com/questions/tagged/zend-framework3)`.
+- [Stack Overflow](http://stackoverflow.com/questions/ask) — You might use the following tags: [`zend-framework`](http://stackoverflow.com/questions/tagged/zend-framework), [`zend-framework2`](http://stackoverflow.com/questions/tagged/zend-framework2), [`zend-framework3`](http://stackoverflow.com/questions/tagged/zend-framework3).
 - [Zend Forums](http://forums.zend.com/viewforum.php?f=69) — For programming and general questions on Zend Framework.
 
 
