@@ -4,7 +4,7 @@
 > A curated list of awesome [Zend Framework][zf] modules, tutorials and other nice things.
 
 
-## Table of Contents
+## Contents
 
 - [Official Resources](#official-resources)
 - [Application Skeletons](#application-skeletons)
