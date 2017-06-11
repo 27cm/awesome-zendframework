@@ -138,7 +138,7 @@
 ## Zend Framework Multimedia
 *Multimedia resources (presentations, videos) about Zend Framework.*
 
-- [SlideShare](http://www.slideshare.net/search/slideshow?q=zend+framework) — Slides about Zend Framework from SlideShare.
+- [SlideShare](https://www.slideshare.net/search/slideshow?q=zend+framework) — Slides about Zend Framework from SlideShare.
 - [Zend Framework Webinars](http://www.zend.com/en/resources/webinars) — Collection of Zend Framework webinars.
 - [Zendcasts](http://www.zendcasts.com) — Free Zend Framework screencasts.
 
@@ -147,7 +147,7 @@
 *Developers write about Zend Framework.*
 
 - [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/) — Useful tutorials from Zend Framework contributor.
-- [Enrico Zimuel](http://www.zimuel.it/category/zend-framework/) — Zend Framework Core Developer.
+- [Enrico Zimuel](http://www.zimuel.it/category/zend-framework) — Zend Framework Core Developer.
 - [Master Zend Framework](http://www.masterzendframework.com) — Zend Framework tutorials, podcasts, screencasts, tips, pointers and much, much more.
 - [Matthew Weier O'Phinney](https://mwop.net/blog/tag/zend%20framework) — Zend Framework Team Lead.
 - [Marco Pivetta](https://ocramius.github.io/) (Ocramius) — Doctrine and Zend Framework CR team member.
@@ -161,7 +161,7 @@
 *Discuss Zend Framework.*
 
 - [IRC Channel](irc://irc.freenode.net/zftalk) — Official Zend Framework IRC Channel.
-- [Stack Overflow](http://stackoverflow.com/questions/ask) — You might use the following tags: [`zend-framework`](http://stackoverflow.com/questions/tagged/zend-framework), [`zend-framework2`](http://stackoverflow.com/questions/tagged/zend-framework2), [`zend-framework3`](http://stackoverflow.com/questions/tagged/zend-framework3).
+- [Stack Overflow](https://stackoverflow.com/questions/ask) — You might use the following tags: [`zend-framework`](https://stackoverflow.com/questions/tagged/zend-framework), [`zend-framework2`](https://stackoverflow.com/questions/tagged/zend-framework2), [`zend-framework3`](https://stackoverflow.com/questions/tagged/zend-framework3).
 - [Zend Forums](http://forums.zend.com/viewforum.php?f=69) — For programming and general questions on Zend Framework.
 
 
