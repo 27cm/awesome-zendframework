@@ -1,5 +1,5 @@
 
-# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://raw.githubusercontent.com/27cm/awesome-zendframework/master/media/logo.png" alt="Zend Framework" align="right" width="80">][zf]
+# Awesome Zend Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/27cm/awesome-zendframework.svg?branch=master)](https://travis-ci.org/27cm/awesome-zendframework) [<img src="https://raw.githubusercontent.com/27cm/awesome-zendframework/master/media/logo.png" alt="Zend Framework" align="right" width="80">][zf]
 
 > A curated list of awesome [Zend Framework][zf] modules, tutorials and other nice things.
 
@@ -53,7 +53,7 @@
 ## Applications
 *Open-source applications using Zend Framework.*
 
-- [JoobsBox](http://www.joobsbox.com) — flexible software for job boards, with a plugins and themes system ready for your needs.
+- [JoobsBox](http://www.joobsbox.com) — Flexible software for job boards, with a plugins and themes system ready for your needs.
 - [Magento](https://magento.com) — E-commerce platform.
 - [Omeka](http://omeka.org) — Web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
 - [PHPLifestream](https://github.com/johannilsson/phplifestream) — Lifestream Aggregator, built with Zend Framework.
@@ -116,17 +116,17 @@
 ## Zend Framework Books
 *Books about Zend Framework.*
 
-- [Beginning Zend Framework](http://www.apress.com/9781430218258), Armando Padilla — Beginner's guide to learne and use Zend Framework.
+- [Beginning Zend Framework](http://www.apress.com/us/book/9781430218258), Armando Padilla — Beginner's guide to learne and use Zend Framework.
 - [Easy PHP Websites with the Zend Framework](https://www.amazon.com/Easy-PHP-Websites-Zend-Framework-ebook/dp/B004RVNL3G), Jason Gilmore — Ultimate guide to building powerful PHP websites.
 - [Guide to Programming with Zend Framework](https://www.amazon.com/Architects-Guide-Programming-Zend-Framework/dp/0973862157), Cal Evans — Learn to master the secrets of the Zend Framework.
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20), Mahabubul Hasan — Designed for developers who want to learn Zend Framework fast, using a hands-on practical approach rather than dry theory.
 - [Learn ZF2](http://learnzf.com/book/), Slavey Karadzhov — The book will help to understand the major components in ZF2.
-- [Pro Zend Framework Techniques](http://www.apress.com/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
-- [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners
+- [Pro Zend Framework Techniques](http://www.apress.com/us/book/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
+- [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners.
+- [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/), Oleg Krivtsov — Free and open-source book about creating websites with Zend Framework 3.
 - [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 concepts, Techniques and Practical Solutions.
-- [Web Development with Zend Framework 3](https://leanpub.com/zendframework), Michael Romer — Zend Framework 3 concepts, Techniques and Practical Solutions.
-- [Zend Enterprise PHP Patterns](http://www.apress.com/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
-- [Zend Framework](http://www.apress.com/9781430219064), Zend, Inc. — The official programmer’s reference guide.
+- [Zend Enterprise PHP Patterns](http://www.apress.com/us/book/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
+- [Zend Framework](http://www.apress.com/us/book/9781430219064), Zend, Inc. — The official programmer’s reference guide.
 - [Zend Framework Certification Study Guide](http://downloads.zend.com/framework/generic/ZFC_Study_Guide_v1.pdf), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework Certified Architect.
 - [Zend Framework in Action](https://www.manning.com/books/zend-framework-in-action), Rob Allen, Nick Lo, Steven Brown — Tutorial that shows how to use Zend Framework to create web-based applications and web services.
 - [Zend Framework 1.8 Web Application Development](https://www.packtpub.com/web-development/zend-framework-18-web-application-development), Keith Pope — Design, develop, and deploy feature-rich PHP web applications with this MVC framework.
@@ -146,7 +146,7 @@
 ## Zend Framework Reading
 *Developers write about Zend Framework.*
 
-- [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/)
+- [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/) — Useful tutorials from Zend Framework contributor.
 - [Enrico Zimuel](http://www.zimuel.it/category/zend-framework/) — Zend Framework Core Developer.
 - [Master Zend Framework](http://www.masterzendframework.com) — Zend Framework tutorials, podcasts, screencasts, tips, pointers and much, much more.
 - [Matthew Weier O'Phinney](https://mwop.net/blog/tag/zend%20framework) — Zend Framework Team Lead.
@@ -160,6 +160,7 @@
 ## Community
 *Discuss Zend Framework.*
 
+- [IRC Channel](irc://irc.freenode.net/zftalk) — Official Zend Framework IRC Channel.
 - [Stack Overflow](http://stackoverflow.com/questions/ask) — You might use the following tags: [`zend-framework`](http://stackoverflow.com/questions/tagged/zend-framework), [`zend-framework2`](http://stackoverflow.com/questions/tagged/zend-framework2), [`zend-framework3`](http://stackoverflow.com/questions/tagged/zend-framework3).
 - [Zend Forums](http://forums.zend.com/viewforum.php?f=69) — For programming and general questions on Zend Framework.
 
