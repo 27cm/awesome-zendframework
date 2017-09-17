@@ -120,7 +120,7 @@
 - [Easy PHP Websites with the Zend Framework](https://www.amazon.com/Easy-PHP-Websites-Zend-Framework-ebook/dp/B004RVNL3G), Jason Gilmore — Ultimate guide to building powerful PHP websites.
 - [Guide to Programming with Zend Framework](https://www.amazon.com/Architects-Guide-Programming-Zend-Framework/dp/0973862157), Cal Evans — Learn to master the secrets of the Zend Framework.
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20), Mahabubul Hasan — Designed for developers who want to learn Zend Framework fast, using a hands-on practical approach rather than dry theory.
-- [Learn ZF2](http://learnzf.com/book/), Slavey Karadzhov — The book will help to understand the major components in ZF2.
+- [Learn ZF2](https://github.com/slaff/learnzf2), Slavey Karadzhov — The book will help to understand the major components in ZF2.
 - [Pro Zend Framework Techniques](http://www.apress.com/us/book/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners.
 - [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/), Oleg Krivtsov — Free and open-source book about creating websites with Zend Framework 3.
@@ -147,14 +147,13 @@
 *Developers write about Zend Framework.*
 
 - [Abdul Malik Ikhsan's Blog](https://samsonasik.wordpress.com/category/tutorial-php/zend-framework-2/) — Useful tutorials from Zend Framework contributor.
-- [Enrico Zimuel](http://www.zimuel.it/category/zend-framework) — Zend Framework Core Developer.
-- [Master Zend Framework](http://www.masterzendframework.com) — Zend Framework tutorials, podcasts, screencasts, tips, pointers and much, much more.
+- [Enrico Zimuel](https://www.zimuel.it/) — Zend Framework Core Developer.
+- [Master Zend Framework](https://www.masterzendframework.com/) — Zend Framework tutorials, podcasts, screencasts, tips, pointers and much, much more.
 - [Matthew Weier O'Phinney](https://mwop.net/blog/tag/zend%20framework) — Zend Framework Team Lead.
 - [Marco Pivetta](https://ocramius.github.io/) (Ocramius) — Doctrine and Zend Framework CR team member.
 - [Rob Allen's DevNotes](https://akrabat.com) — PHP and Zend Framework expert.
-- [Understanding the Zend Framework](http://www.ibm.com/developerworks/opensource/library/os-php-zend1/) — Tutorials show the creation of a new online RSS feed reader.
+- [Understanding the Zend Framework](https://www.ibm.com/developerworks/opensource/library/os-php-zend1/) — Tutorials show the creation of a new online RSS feed reader.
 - [Zend Developer Zone](https://devzone.zend.com) — Official Zend Community blog.
-- [ZF2 Process Architecture](http://zendframework2.de/cheat-sheet.html) — Zend Framework 2 request dispatch flow chart. [EN](http://okeowoaderemi.com/site/assets/files/1103/zf2-flowchart.jpg)
 
 
 ## Community
