@@ -70,6 +70,10 @@
 - [zf-apigility-admin](https://github.com/zfcampus/zf-apigility-admin) — Admin API and UI for Apigility.
 - [zf-oauth2](https://github.com/zfcampus/zf-oauth2) — OAuth2 server module for Zend Framework 2.
 
+### Databases
+
+- [Phinx Module](https://github.com/valorin/zf2-phinx-module) — module to integrate the Phinx database migration tool into a ZF2 application console.
+
 ### Developer Tools
 
 - [BjyProfiler](https://github.com/bjyoungblood/BjyProfiler) — ZendDeveloperTools-compatible Zend\Db query profile.
@@ -91,6 +95,7 @@
 
 ### Others
 
+- [AssetManager](https://github.com/RWOverdijk/AssetManager) — assets for Zend Framework projects.
 - [BjyAuthorize](https://github.com/bjyoungblood/BjyAuthorize) — Facade for Zend\Permissions\Acl that will ease its usage with modules and applications.
 - [Bootstrap-Zend-Framework](https://github.com/komola/Bootstrap-Zend-Framework) — Zend Forms to work together with Twitter Bootstrap.
 - [DOMPDFModule](https://github.com/raykolbe/DOMPDFModule) — Zend Framework 2 module for DOMPDF.
@@ -103,6 +108,7 @@
 - [Sitemap](https://github.com/Soflomo/Sitemap) — Simple sitemap generation module for Zend Framework 2.
 - [SlmQueue](https://github.com/juriansluiman/SlmQueue) — Integration with various queue management systems.
 - [Soflomo-Purifier](https://github.com/juriansluiman/Soflomo-Purifier) — HTMLPurifier integration for Zend Framework 2.
+- [SxBootstrap](https://github.com/SpoonX/SxBootstrap) — Twitter bootstrap module for ZF2 (zend framework 2).
 - [ZfcAdmin](https://github.com/ZF-Commons/ZfcAdmin) — Admin interface for Zend Framework 2 modules.
 - [ZfcDatagrid](https://github.com/ThaDafinser/ZfcDatagrid) — Datagrid/Datatable module for Zend Framework 2 with different datasources.
 - [ZfcTwitterBootstrap](https://github.com/mwillbanks/ZfcTwitterBootstrap) — Zend Framework 2 Integration with Twitter Bootstrap.
@@ -111,6 +117,8 @@
 - [zf2-sms-adapters](https://github.com/andreylis/zf2-sms-adapters) — SMS sending module.
 - [zf2-twb-bundle](https://github.com/neilime/zf2-twb-bundle) — Zend Framework 2 module for integration of Twitter Bootstrap.
 - [zfc-rbac](https://github.com/ZF-Commons/zfc-rbac) — Role-based access control module to provide additional features on top of Zend\Permissions\Rbac.
+- [zf2-whoops](https://github.com/ghislainf/zf2-whoops) — Integrate whoops error in Zend Framework 3.
+- [zf3-whoops](https://github.com/Ppito/zf3-whoops) — Integrate whoops error in Zend Framework 3.
 
 
 ## Zend Framework Books
@@ -124,7 +132,7 @@
 - [Pro Zend Framework Techniques](http://www.apress.com/us/book/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners.
 - [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/), Oleg Krivtsov — Free and open-source book about creating websites with Zend Framework 3.
-- [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 concepts, Techniques and Practical Solutions.
+- [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 concepts, techniques and practical solutions.
 - [Zend Enterprise PHP Patterns](http://www.apress.com/us/book/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
 - [Zend Framework](http://www.apress.com/us/book/9781430219064), Zend, Inc. — The official programmer’s reference guide.
 - [Zend Framework Certification Study Guide](http://downloads.zend.com/framework/generic/ZFC_Study_Guide_v1.pdf), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework Certified Architect.
