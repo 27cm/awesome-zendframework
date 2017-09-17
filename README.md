@@ -159,8 +159,11 @@
 ## Community
 *Discuss Zend Framework.*
 
+- [Discourse](https://discourse.zendframework.com/) — Zend Framework, Apigility, and Expressive community support.
 - [IRC Channel](irc://irc.freenode.net/zftalk) — Official Zend Framework IRC Channel.
+- [Slack](https://zendframework.slack.com/) — Official Zend Framework slack community. Receive your invite [here](https://zendframework-slack.herokuapp.com/).
 - [Stack Overflow](https://stackoverflow.com/questions/ask) — You might use the following tags: [`zend-framework`](https://stackoverflow.com/questions/tagged/zend-framework), [`zend-framework2`](https://stackoverflow.com/questions/tagged/zend-framework2), [`zend-framework3`](https://stackoverflow.com/questions/tagged/zend-framework3).
+- [TinyLetter](https://tinyletter.com/mwopzend) — Zend Framework contributor updates by Matthew O'Phinney.
 - [Zend Forums](http://forums.zend.com/viewforum.php?f=69) — For programming and general questions on Zend Framework.
 
 
