@@ -55,10 +55,10 @@
 
 - [JoobsBox](http://www.joobsbox.com) — Flexible software for job boards, with a plugins and themes system ready for your needs.
 - [Magento](https://magento.com) — E-commerce platform.
+- [Matomo](https://matomo.org/), formerly Piwik — The leading free open analytics platform.
 - [Omeka](http://omeka.org) — Web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
 - [PHPLifestream](https://github.com/johannilsson/phplifestream) — Lifestream Aggregator, built with Zend Framework.
-- [Piwik](https://piwik.org) — The leading free open analytics platform.
-- [Libra CMS](http://www.ejoom.com/libra-cms/en/) — Joomla looking Content Managment System based on Zend Framework 2.
+- [Libra CMS](https://www.ejoom.com/libra-cms/en/) — Joomla looking Content Managment System based on Zend Framework 2.
 
 
 ## Modules
@@ -90,7 +90,7 @@
 
 ### Templates
 
-- [SmartyModule](https://github.com/MurgaNikolay/SmartyModule) — Zend Framework 2 module for Smarty templating engine.
+- [SmartyModule](https://github.com/NikolayMurha/SmartyModule) — Zend Framework 2 module for Smarty templating engine.
 - [ZfcTwig](https://github.com/ZF-Commons/ZfcTwig) — Zend Framework 2 module for Twig templating engine.
 
 ### Others
@@ -106,7 +106,7 @@
 - [PhlyBlog](https://github.com/phly/PhlyBlog) — Static blog generator.
 - [PhlyMongo](https://github.com/phly/PhlyMongo) — Service factories, hydrating and paginator for Mongo.
 - [Sitemap](https://github.com/Soflomo/Sitemap) — Simple sitemap generation module for Zend Framework 2.
-- [SlmQueue](https://github.com/juriansluiman/SlmQueue) — Integration with various queue management systems.
+- [SlmQueue](https://github.com/JouwWeb/SlmQueue) — Integration with various queue management systems.
 - [Soflomo-Purifier](https://github.com/juriansluiman/Soflomo-Purifier) — HTMLPurifier integration for Zend Framework 2.
 - [SxBootstrap](https://github.com/SpoonX/SxBootstrap) — Twitter bootstrap module for ZF2 (zend framework 2).
 - [ZfcAdmin](https://github.com/ZF-Commons/ZfcAdmin) — Admin interface for Zend Framework 2 modules.
@@ -124,17 +124,17 @@
 ## Zend Framework Books
 *Books about Zend Framework.*
 
-- [Beginning Zend Framework](http://www.apress.com/us/book/9781430218258), Armando Padilla — Beginner's guide to learne and use Zend Framework.
+- [Beginning Zend Framework](https://www.apress.com/us/book/9781430218258), Armando Padilla — Beginner's guide to learne and use Zend Framework.
 - [Easy PHP Websites with the Zend Framework](https://www.amazon.com/Easy-PHP-Websites-Zend-Framework-ebook/dp/B004RVNL3G), Jason Gilmore — Ultimate guide to building powerful PHP websites.
 - [Guide to Programming with Zend Framework](https://www.amazon.com/Architects-Guide-Programming-Zend-Framework/dp/0973862157), Cal Evans — Learn to master the secrets of the Zend Framework.
 - [Instant Zend Framework 2.0](https://www.packtpub.com/web-development/instant-zend-framework-20), Mahabubul Hasan — Designed for developers who want to learn Zend Framework fast, using a hands-on practical approach rather than dry theory.
 - [Learn ZF2](https://github.com/slaff/learnzf2), Slavey Karadzhov — The book will help to understand the major components in ZF2.
-- [Pro Zend Framework Techniques](http://www.apress.com/us/book/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
+- [Pro Zend Framework Techniques](https://www.apress.com/us/book/9781430218791), Forrest Lyman — Provides a clear guide to building a custom content management system (CMS) with the Zend Framework.
 - [Using Zend Framework 2](https://leanpub.com/using-zend-framework-2), Oleg Krivtsov — The first book about Zend Framework 2 easy to read and understand for beginners.
 - [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/), Oleg Krivtsov — Free and open-source book about creating websites with Zend Framework 3.
 - [Web Development with Zend Framework 2](https://leanpub.com/zendframework2-en), Michael Romer — Zend Framework 2 concepts, techniques and practical solutions.
-- [Zend Enterprise PHP Patterns](http://www.apress.com/us/book/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
-- [Zend Framework](http://www.apress.com/us/book/9781430219064), Zend, Inc. — The official programmer’s reference guide.
+- [Zend Enterprise PHP Patterns](https://www.apress.com/us/book/9781430219743), John Coggeshall, Morgan Tocker — Book about Zend Framework, Zend Studio, Web Application Performance and Analysis, etc.
+- [Zend Framework](https://www.apress.com/us/book/9781430219064), Zend, Inc. — The official programmer’s reference guide.
 - [Zend Framework Certification Study Guide](http://downloads.zend.com/framework/generic/ZFC_Study_Guide_v1.pdf), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework Certified Architect.
 - [Zend Framework in Action](https://www.manning.com/books/zend-framework-in-action), Rob Allen, Nick Lo, Steven Brown — Tutorial that shows how to use Zend Framework to create web-based applications and web services.
 - [Zend Framework 1.8 Web Application Development](https://www.packtpub.com/web-development/zend-framework-18-web-application-development), Keith Pope — Design, develop, and deploy feature-rich PHP web applications with this MVC framework.
