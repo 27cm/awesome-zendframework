@@ -177,9 +177,9 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/txt/copying/)
 
-To the extent possible under law, [Anton Zakharov](https://github.com/27cm) has waived all copyright and related or neighboring rights to this work.
+This repository is licensed under the [WTFPL](http://www.wtfpl.net/). Its full content is located in the [LICENSE](/LICENSE) file.
 
 
 [zf]: https://framework.zend.com/

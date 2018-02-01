@@ -1,7 +1,9 @@
 
 # Contribution Guidelines
 
-This project is governed by the [Contributor Covenant](http://contributor-covenant.org/version/1/4/code_of_conduct.md) (version 1.4). All contributors and participants agree to abide by its terms. To report violations, send an email to avti1308@yandex.ru.
+This project is governed by the [Contributor Covenant](http://contributor-covenant.org/version/1/4/code_of_conduct.md) (version 1.4).
+All contributors and participants agree to abide by its terms. To report violations, send an email to
+[avti1308@yandex.ru](mailto:avti1308@yandex.ru) (Anton Zaharov).
 
 
 ## Table of Contents
