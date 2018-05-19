@@ -56,7 +56,7 @@
 - [JoobsBox](http://www.joobsbox.com) — Flexible software for job boards, with a plugins and themes system ready for your needs.
 - [Magento](https://magento.com) — E-commerce platform.
 - [Matomo](https://matomo.org/), formerly Piwik — The leading free open analytics platform.
-- [Omeka](http://omeka.org) — Web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
+- [Omeka](https://omeka.org/) — Web publishing platform for the display of library, museum and scholarly collections, archives and exhibitions.
 - [PHPLifestream](https://github.com/johannilsson/phplifestream) — Lifestream Aggregator, built with Zend Framework.
 - [Libra CMS](https://www.ejoom.com/libra-cms/en/) — Joomla looking Content Managment System based on Zend Framework 2.
 
@@ -80,7 +80,7 @@
 - [HumusPHPUnitModule](https://github.com/prolic/HumusPHPUnitModule) — Unit testing module.
 - [ZFDebug](https://github.com/jokkedk/ZFDebug) — Debug toolbar for Zend Framework.
 - [ZFTool](https://github.com/zendframework/ZFTool) — Utility module for maintaining modular Zend Framework 2 applications.
-- [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools) — Developer and debug tools for working with the ZF2 MVC layer.
+- [Zend Developer Tools](https://github.com/zendframework/zend-developer-tools) — Developer and debug tools for working with the ZF2 MVC layer.
 
 ### Doctrine
 
@@ -141,6 +141,7 @@
 - [Zend Framework 2 Certification Study Guide](http://www.zend.com/en/services/certification/zf2-certification-study-guide), Zend, Inc. — Provides an excellent resource to pre-test your skills and guide you to your ultimate goal of becoming a Zend Framework 2 Certified Architect.
 - [Zend Framework 2 Cookbook](https://www.packtpub.com/web-development/zend-framework-2-cookbook), Josephus Callaars — The perfect way to access and understand the features of Zend Framework 2.
 - [Zend Framework 2.0 by Example](https://www.packtpub.com/web-development/zend-framework-20-example-beginner%E2%80%99s-guide), Krishna Shasankar — Chance to learn Zend Framework 2.0 through real world examples and an involving hands-on approach.
+- [Zend Framework 3 Cookbook](https://www.roguewave.com/sites/rw/files/documents/white-papers/zend-framework-3-cookbook.pdf), Matthew Weier O'Phinney, Enrico Zimuel — A collection of PHP recipes using Zend components.
 
 
 ## Zend Framework Multimedia
